@@ -3,7 +3,6 @@ import 'package:ev_dashboard/widgets/action_button_square_widget.dart';
 import 'package:ev_dashboard/widgets/bottom_navigation_bar_widget.dart';
 import 'package:ev_dashboard/widgets/control_center_car_view_widget.dart';
 import 'package:ev_dashboard/widgets/header_widget.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:google_fonts/google_fonts.dart';
